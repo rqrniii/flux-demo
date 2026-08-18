@@ -15,4 +15,4 @@ spec:
     spec:
       containers:
       - name: demo
-        image: nginx:1.25
+        image: nginx:this-tag-does-not-exist
